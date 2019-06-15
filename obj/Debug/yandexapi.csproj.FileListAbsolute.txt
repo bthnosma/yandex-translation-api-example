@@ -1,0 +1,10 @@
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\bin\Debug\yandexapi.exe.config
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\bin\Debug\yandexapi.exe
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\bin\Debug\yandexapi.pdb
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\obj\Debug\yandexapi.csprojAssemblyReference.cache
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\obj\Debug\yandexapi.csproj.CoreCompileInputs.cache
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\obj\Debug\yandexapi.exe
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\obj\Debug\yandexapi.pdb
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rakletadmin\source\repos\yandexapi\yandexapi\obj\Debug\yandexapi.csproj.CopyComplete
